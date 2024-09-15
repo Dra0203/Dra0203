@@ -1,4 +1,4 @@
-echo "# Dra0203" >> README.md
+echo "# MMA0905" >> RAJA.md
 git init
 git add README.md
 git commit -m "first commit"
